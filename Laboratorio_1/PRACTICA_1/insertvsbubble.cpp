@@ -186,3 +186,43 @@ int main(){
 
 
 }
+
+
+//Verificaciones
+
+//        INSERTION_SORT                                                    BUBBLE_SORT
+// EN UN ARREGLO DE TAMAÑO 10                                       EN UN ARREGLO DE TAMAÑO 10  
+// Numero_de_asignaciones : 752                                     Numero_de_asignaciones : 1360
+// Numero_de_comparaciones : 134                                    Numero_de_comparaciones : 166
+// Numero de asignacion de memoria: 12 byte                         Numero de asignacion de memoria: 13 byte
+// Segundos:0                                                       Segundos:0
+// Milisegundos:0                                                   Milisegundos:0
+// NO tengo instancias de una clase dentro de los algoritmos de ordenacion
+// Arreglo creado : 
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// EN UN ARREGLO DE TAMAÑO 1000                                       EN UN ARREGLO DE TAMAÑO 1000  
+// Numero_de_asignaciones : 3945504                                  Numero_de_asignaciones : 11831064
+// Numero_de_comparaciones : 980382                                  Numero_de_comparaciones : 1490190
+// Numero de asignacion de memoria: 12 byte                          Numero de asignacion de memoria: 13 byte
+// Segundos:0.003                                                    Segundos:0.003
+// Milisegundos: 3                                                   Milisegundos:3
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// EN UN ARREGLO DE TAMAÑO 100mil                                    EN UN ARREGLO DE TAMAÑO 100mil
+// Numero_de_asignaciones : 39926073792                              Numero_de_asignaciones : 119846147640
+// Numero_de_comparaciones : 9980918454                              Numero_de_comparaciones : 14990459226   
+// Numero de asignacion de memoria:                                  Numero de asignacion de memoria:
+// Segundos: 5.908                                                   Segundos:29.647
+// Milisegundos: 5908                                                Milisegundos:29647
+////////////////////////////////////////////////////////////////////////////////////////////////////
+// EN UN ARREGLO DE TAMAÑO 1 millón                                 EN UN ARREGLO DE TAMAÑO 1 millón
+// Numero_de_asignaciones : 752                                     Numero_de_asignaciones : 752
+// Numero_de_comparaciones : 752                                    Numero_de_comparaciones : 752
+// Numero de asignacion de memoria:                                 Numero de asignacion de memoria:
+// Segundos:                                                        Segundos:
+// Milisegundos:                                                    Milisegundos:
+
+
+
+
+
+////////////////////////////////////////////////////////////
