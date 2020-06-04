@@ -1,3 +1,7 @@
+
+//KELVIN PAUL PUCHO ZEVALLOS        CUI:20180694
+//LABORATORIO GRUPO A
+
 #include<iostream>
 
 using namespace std;
