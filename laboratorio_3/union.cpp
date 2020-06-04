@@ -5,6 +5,8 @@ using namespace std;
 static int index1 = 0;
 static int index2 = 0;
 
+ //SEGMENTO MAXIMO CON DIVIDE Y VENCERAS
+	
 int maxtres(int maxizq, int maxcruz, int maxder)
 {
 	int valormax = max(maxizq,maxcruz);
@@ -50,6 +52,8 @@ int seg_max_divide_venceras(int* array, int p, int r)
     return maxtres(maxizq,maxcruz,maxder);
 }
 
+
+//SEGMENTO-MAXIMO CON CODIGO LINEAL
 
 void seg_max(int ruta,int* array , int tam){
     int sumamax = 0;
